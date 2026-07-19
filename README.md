@@ -61,15 +61,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Perales&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Perales&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-</div>
-
----
-
 ## 🚀 Proyectos Destacados
 
 #### 📌 [SportMap](https://github.com/Alex-Perales/SportMap)
@@ -98,14 +89,6 @@
 > Proyecto de simulación desarrollado en equipo (Grupo 4) a lo largo de varios sprints, con mejoras iterativas por versión.
 - ⭐ Python
 - 🔗 [Ver código](https://github.com/Alex-Perales/V2_capytown_G4_s12)
-
----
-
-## 📈 Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Perales&theme=dark-dimmed&hide_border=true" width="100%">
-</div>
 
 ---
 
