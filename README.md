@@ -17,12 +17,12 @@
 
 ## 🎯 Sobre Mí
 
-- 🎓 Ingeniero de Sistemas, enfocado en construir soluciones tecnológicas reales
-- 📱 Experiencia en **desarrollo Android** con Kotlin y Jetpack
-- 🌐 Experiencia en **desarrollo web** con Vue.js, HTML/CSS/JS
-- 🤖 También me muevo en **robótica y automatización** (control de brazos robóticos con Python/Jupyter)
-- 🚀 Me gusta llevar proyectos de la idea al producto funcionando, cuidando código y experiencia de usuario
-- 🎯 Buscando una oportunidad para aportar valor como desarrollador en un equipo de tecnología
+- Ingeniero de Sistemas, enfocado en construir soluciones tecnológicas reales
+- Experiencia en **desarrollo Android** con Kotlin y Jetpack
+- Experiencia en **desarrollo web** con Vue.js, HTML/CSS/JS
+- También me muevo en **robótica y automatización** (control de brazos robóticos con Python/Jupyter)
+- Me gusta llevar proyectos de la idea al producto funcionando, cuidando código y experiencia de usuario
+- Buscando una oportunidad para aportar valor como desarrollador en un equipo de tecnología
 
 <br>
 
