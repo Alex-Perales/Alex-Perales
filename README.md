@@ -26,19 +26,6 @@
 
 <br>
 
-## 💼 Áreas de Interés
-
-```python
-areas_de_interes = {
-    "Desarrollo Android":         ["Kotlin", "Jetpack Compose", "Apps nativas"],
-    "Desarrollo Web":             ["Vue.js", "React", "Tailwind CSS"],
-    "Backend & BaaS":             ["Supabase", "Firebase", "APIs REST"],
-    "Robótica & Automatización":  ["Python", "Jupyter", "Control de brazos robóticos"]
-}
-```
-
-<br>
-
 ## 🛠️ Tecnologías y Herramientas
 
 <table width="100%">
@@ -148,11 +135,30 @@ Programación de un brazo robótico MyCobot 280 para tareas de pick and place.
 
 ## 💡 Lo que puedo hacer por ti
 
-| | |
-|---|---|
-| ✅ **Apps Android** con Kotlin y Jetpack | ✅ **APIs REST** y consumo de servicios |
-| ✅ **Interfaces web** con Vue, React o Tailwind | ✅ **Automatización** con Python y robótica |
-| ✅ **Backend as a Service** con Supabase / Firebase | ✅ Mejora de **UI/UX** en apps existentes |
+<table width="100%">
+<tr>
+<td width="8%" align="center">📱</td>
+<td><b>Apps Android</b><br>Desarrollo de aplicaciones nativas con Kotlin y Jetpack</td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td><b>Interfaces web</b><br>Frontends modernos con Vue.js, React o Tailwind CSS</td>
+</tr>
+<tr>
+<td align="center">🗄️</td>
+<td><b>Backend as a Service</b><br>Integración con Supabase / Firebase y APIs REST</td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><b>Automatización & Robótica</b><br>Scripts y control de sistemas con Python</td>
+</tr>
+<tr>
+<td align="center">🎨</td>
+<td><b>Mejora de UI/UX</b><br>Optimización de la experiencia en aplicaciones existentes</td>
+</tr>
+</table>
+
+> 💬 Y en general, cualquier proyecto que combine desarrollo mobile, web o automatización — si tu idea no está en la lista, probablemente también pueda ayudarte.
 
 <br>
 
@@ -162,12 +168,11 @@ Programación de un brazo robótico MyCobot 280 para tareas de pick and place.
 
 **¡No dudes en contactarme para colaborar o conversar!**
 
-[📧 Email](mailto:aalexperm@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/alex-perales-maldonado-06868932a/)
+<a href="https://www.linkedin.com/in/alex-perales-maldonado-06868932a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:aalexperm@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alex-Perales&label=VISITAS&color=blueviolet&style=flat" alt="Profile views">
 </div>
