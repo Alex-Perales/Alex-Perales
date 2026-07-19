@@ -30,7 +30,7 @@
 
 <table width="100%">
 <tr>
-<td width="18%"><b>📱 Mobile</b></td>
+<td width="15%" nowrap><b>📱 Mobile</b></td>
 <td>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
@@ -38,7 +38,7 @@
 </td>
 </tr>
 <tr>
-<td><b>🌐 Frontend</b></td>
+<td nowrap><b>🌐 Frontend</b></td>
 <td>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
@@ -49,7 +49,7 @@
 </td>
 </tr>
 <tr>
-<td><b>⚙️ Backend & Data</b></td>
+<td nowrap><b>⚙️ Backend&nbsp;&&nbsp;Data</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
@@ -57,7 +57,7 @@
 </td>
 </tr>
 <tr>
-<td><b>🗄️ Bases de Datos & BaaS</b></td>
+<td nowrap><b>🗄️ Bases&nbsp;de&nbsp;Datos&nbsp;&&nbsp;BaaS</b></td>
 <td>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
@@ -66,7 +66,7 @@
 </td>
 </tr>
 <tr>
-<td><b>🧰 Herramientas</b></td>
+<td nowrap><b>🧰 Herramientas</b></td>
 <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
