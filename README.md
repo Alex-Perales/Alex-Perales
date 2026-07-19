@@ -137,28 +137,48 @@ Programación de un brazo robótico MyCobot 280 para tareas de pick and place.
 
 <table width="100%">
 <tr>
-<td width="8%" align="center">📱</td>
-<td><b>Apps Android</b><br>Desarrollo de aplicaciones nativas con Kotlin y Jetpack</td>
+<td width="50%" valign="top">
+
+**📱 Apps Android**
+Desarrollo de aplicaciones nativas con Kotlin y Jetpack
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Interfaces web**
+Frontends modernos con Vue.js, React o Tailwind CSS
+
+</td>
 </tr>
 <tr>
-<td align="center">🌐</td>
-<td><b>Interfaces web</b><br>Frontends modernos con Vue.js, React o Tailwind CSS</td>
+<td width="50%" valign="top">
+
+**🗄️ Backend as a Service**
+Integración con Supabase / Firebase y APIs REST
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Automatización & Robótica**
+Scripts y control de brazos robóticos con Python
+
+</td>
 </tr>
 <tr>
-<td align="center">🗄️</td>
-<td><b>Backend as a Service</b><br>Integración con Supabase / Firebase y APIs REST</td>
-</tr>
-<tr>
-<td align="center">🤖</td>
-<td><b>Automatización & Robótica</b><br>Scripts y control de sistemas con Python</td>
-</tr>
-<tr>
-<td align="center">🎨</td>
-<td><b>Mejora de UI/UX</b><br>Optimización de la experiencia en aplicaciones existentes</td>
+<td width="50%" valign="top">
+
+**🎨 Mejora de UI/UX**
+Optimización de la experiencia en aplicaciones existentes
+
+</td>
+<td width="50%" valign="top">
+
+**💬 ¿Algo distinto?**
+Cualquier proyecto que combine mobile, web o automatización — si tu idea no está en la lista, probablemente también pueda ayudarte
+
+</td>
 </tr>
 </table>
-
-> 💬 Y en general, cualquier proyecto que combine desarrollo mobile, web o automatización — si tu idea no está en la lista, probablemente también pueda ayudarte.
 
 <br>
 
