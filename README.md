@@ -45,8 +45,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-### **Bases de Datos**
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+### **Bases de Datos & Backend as a Service**
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### **Herramientas**
@@ -82,8 +83,8 @@
 - 🔗 [Ver código](https://github.com/Alex-Perales/LoanCalculator-Android)
 
 #### 📌 [CambioLibre](https://github.com/Alex-Perales/CambioLibre)
-> App orientada a la conversión y consulta de tipo de cambio de divisas.
-- ⭐ Kotlin, Android
+> App orientada a la conversión y consulta de tipo de cambio de divisas, con backend en Supabase y Firebase.
+- ⭐ Kotlin, Android, Supabase, Firebase
 - 🔗 [Ver código](https://github.com/Alex-Perales/CambioLibre)
 
 #### 📌 [UESANApp](https://github.com/Alex-Perales/UESANApp)
