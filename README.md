@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Alex Perales 👋</h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack & Mobile | Android · Web · Robótica</b>
+  <b>Ingeniero de Sistemas | Desarrollador Android & Web | Robótica</b>
 </p>
 
 <p align="center">
@@ -17,11 +17,25 @@
 
 ## 🎯 Sobre Mí
 
-- 💻 Desarrollador full stack con experiencia real en **Android (Kotlin/Jetpack)**, **web (Vue, HTML/CSS/JS)** y **Python**
+- 🎓 Ingeniero de Sistemas, enfocado en construir soluciones tecnológicas reales
+- 📱 Experiencia en **desarrollo Android** con Kotlin y Jetpack
+- 🌐 Experiencia en **desarrollo web** con Vue.js, HTML/CSS/JS
 - 🤖 También me muevo en **robótica y automatización** (control de brazos robóticos con Python/Jupyter)
 - 🚀 Me gusta llevar proyectos de la idea al producto funcionando, cuidando código y experiencia de usuario
-- 📚 Ampliando constantemente mis conocimientos en desarrollo full stack y buenas prácticas de ingeniería
 - 🎯 Buscando una oportunidad para aportar valor como desarrollador en un equipo de tecnología
+
+<br>
+
+## 💼 Áreas de Interés
+
+```python
+areas_de_interes = {
+    "Desarrollo Android":         ["Kotlin", "Jetpack Compose", "Apps nativas"],
+    "Desarrollo Web":             ["Vue.js", "React", "Tailwind CSS"],
+    "Backend & BaaS":             ["Supabase", "Firebase", "APIs REST"],
+    "Robótica & Automatización":  ["Python", "Jupyter", "Control de brazos robóticos"]
+}
+```
 
 <br>
 
