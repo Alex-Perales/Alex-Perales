@@ -64,59 +64,33 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Perales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Perales&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Perales&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Perales&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </div>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 📱 Aplicaciones Android
-
 #### 📌 [SportMap](https://github.com/Alex-Perales/SportMap)
 > App de seguimiento deportivo con mapas offline, registro de rutas y estadísticas de progreso.
 - ⭐ Kotlin, Jetpack, Maps
 - 🔗 [Ver código](https://github.com/Alex-Perales/SportMap)
-
-#### 📌 [LoanCalculator-Android](https://github.com/Alex-Perales/LoanCalculator-Android)
-> App para calcular préstamos, intereses y cuotas, construida con Jetpack.
-- ⭐ Kotlin, Jetpack
-- 🔗 [Ver código](https://github.com/Alex-Perales/LoanCalculator-Android)
 
 #### 📌 [CambioLibre](https://github.com/Alex-Perales/CambioLibre)
 > App orientada a la conversión y consulta de tipo de cambio de divisas, con backend en Supabase y Firebase.
 - ⭐ Kotlin, Android, Supabase, Firebase
 - 🔗 [Ver código](https://github.com/Alex-Perales/CambioLibre)
 
-#### 📌 [UESANApp](https://github.com/Alex-Perales/UESANApp)
-> Aplicación Android desarrollada como proyecto académico universitario.
-- ⭐ Kotlin, Android
-- 🔗 [Ver código](https://github.com/Alex-Perales/UESANApp)
-
-### 🌐 Desarrollo Web
-
 #### 📌 [erhos-tech-website](https://github.com/Alex-Perales/erhos-tech-website)
 > Sitio web de Erhos Technology: soluciones digitales para emprendedores y empresas en Perú.
 - ⭐ HTML, CSS, JavaScript
 - 🔗 [Ver código](https://github.com/Alex-Perales/erhos-tech-website)
 
-#### 📌 [Proyecto_VDI_FRONTED](https://github.com/Alex-Perales/Proyecto_VDI_FRONTED)
-> Frontend construido con Vue.js para un proyecto universitario de diseño de interfaces.
-- ⭐ Vue.js, JavaScript
-- 🔗 [Ver código](https://github.com/Alex-Perales/Proyecto_VDI_FRONTED)
-
-### 🤖 Robótica & Automatización
-
 #### 📌 [Robotica_mycobot280-pick-and-place](https://github.com/Alex-Perales/Robotica_mycobot280-pick-and-place)
 > Programación de un brazo robótico MyCobot 280 para tareas de pick and place.
 - ⭐ Python, Jupyter Notebook
 - 🔗 [Ver código](https://github.com/Alex-Perales/Robotica_mycobot280-pick-and-place)
-
-#### 📌 [ROBOTICA_Jetcobot](https://github.com/Alex-Perales/ROBOTICA_Jetcobot)
-> Control y automatización del brazo robótico Jetcobot.
-- ⭐ Python
-- 🔗 [Ver código](https://github.com/Alex-Perales/ROBOTICA_Jetcobot)
 
 ### 🎮 Proyectos Académicos en Equipo
 
