@@ -173,7 +173,7 @@ Optimización de la experiencia en aplicaciones existentes
 <td width="50%" valign="top">
 
 **💬 ¿Algo distinto?**
-Cualquier proyecto que combine mobile, web o automatización — si tu idea no está en la lista, probablemente también pueda ayudarte
+Cualquier proyecto que combine mobile, web, automatización, entre otros. 
 
 </td>
 </tr>
